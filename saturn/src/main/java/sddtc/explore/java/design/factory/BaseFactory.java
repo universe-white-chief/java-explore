@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by hchang on 2017/1/18.
+ * Created by sddtc on 2017/1/18.
  */
 public class BaseFactory {
     private Map<String, Class<? extends UniverseInfo>> map;

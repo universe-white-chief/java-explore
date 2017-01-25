@@ -120,5 +120,4 @@ public class TraderApp {
 
         return smallestTransaction.get();
     }
-
 }
